@@ -53,7 +53,17 @@ To try scanning, show or print one of the supported target images and aim the ph
 
 ## Running the Android build
 
-When a downloadable APK is available from a published Release, install it on a compatible ARCore-supported Android device, grant camera permission, and use the images in [`scanning-images/`](scanning-images/) during the AR camera scene. Android may require permission to install an APK from outside an app store. **No APK download is linked in this repository yet.**
+The Android APK is available from the [v1.0.0 GitHub Release](https://github.com/Anth0ny835/The-Journey-of-the-Eagle/releases/tag/v1.0.0).
+
+### Installation
+
+1. Download the APK from the release assets.
+2. Install it on a compatible ARCore-supported Android device.
+3. Allow camera access when prompted.
+4. Download or print the eagle images from the [`scanning-images/`](scanning-images/) folder.
+5. Launch the game, scan a supported eagle image, confirm the selected appearance, and begin playing.
+
+**Note:** This APK was developed for a university assignment. Compatibility with all Android devices has not been verified.
 
 ## Source code
 
@@ -71,7 +81,15 @@ Read the [user manual](docs/User%20Manual%20for%20The%20Journey%20of%20the%20Eag
 
 ## APK and demo
 
-An Android APK and gameplay demo recording were produced for the university assignment. Download links may be added here after checking their redistribution requirements and publishing the approved files through GitHub Releases or video hosting. No public release is claimed yet.
+The first release of **The Journey of the Eagle** is available on GitHub.
+
+| Download | Description |
+|---|---|
+| [Download Android APK](https://github.com/Anth0ny835/The-Journey-of-the-Eagle/releases/download/v1.0.0/The.Jouney.of.the.Eagle.apk) | Installable Android game |
+| [Download Gameplay Demo](https://github.com/Anth0ny835/The-Journey-of-the-Eagle/releases/download/v1.0.0/Game.Demo.mp4) | Recorded demonstration of gameplay |
+| [View v1.0.0 Release](https://github.com/Anth0ny835/The-Journey-of-the-Eagle/releases/tag/v1.0.0) | Release notes and downloadable files |
+
+The APK and gameplay demonstration were produced as part of the university assignment. The public repository contains original gameplay scripts and documentation, while third-party Unity Asset Store source assets are excluded.
 
 ## Third-party content
 
