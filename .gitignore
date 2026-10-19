@@ -1,0 +1,25 @@
+# Local-only builds and recordings
+builds/
+*.apk
+*.aab
+*.mp4
+
+# Unity-generated caches if copied accidentally
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+
+# Editor and operating-system files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Original Unity raw assets are not part of this public code showcase
+Assets/
